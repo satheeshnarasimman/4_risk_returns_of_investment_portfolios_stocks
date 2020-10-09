@@ -1,7 +1,5 @@
 # week4_pandas_project
 
-<<<<<<< HEAD
-=======
 In this project, the portfolio returns of the bulge bracket Hedge funds, Private Equity firms, imaginary portfolios- Algo 1 and Algo 2, as well as the returns of a custom portfolio of 3 stocks are analyzed, in comparison with the benchmark S&P 500. 
 
 This project is a part of the UC Berkeley Fintech Bootcamp Week-4.
@@ -62,4 +60,3 @@ https://www.investopedia.com/investing/beta-know-risk/
 
 # Contributors
 Satheesh Narasimman
->>>>>>> 5fb3e345ffa92384af9f05bad7c833a6e8c29ebc
