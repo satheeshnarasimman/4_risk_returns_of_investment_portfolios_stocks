@@ -51,7 +51,12 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.ewm.
 
 https://www.investopedia.com/ask/answers/010815/what-good-sharpe-ratio.asp
 
+https://www.investopedia.com/investing/beta-know-risk/
+
 # People who helped
-Khaled Kharman- Personal tutor
-Kiel Wheat- Bootcamp classmate
-Joel Gonzales- Bootcamp Teaching Assistant
+- Khaled Kharman- Personal tutor
+- Kiel Wheat- Bootcamp classmate
+- Joel Gonzales- Bootcamp Teaching Assistant
+
+# Contributors
+Satheesh Narasimman
